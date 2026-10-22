@@ -25,6 +25,13 @@
 - 💬 Ask me about **Java, C++, web development, DSA, problem solving**
 - 🏹 Goal: **to be better, every single day**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%201571-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-3★%20%7C%201612-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/AtCoder-762-00a86b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-620%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+
 ## 📫 Contact Me
 
 <p align="left">
@@ -91,22 +98,18 @@
 ## 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabuddha34&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabuddha34&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=prabuddha34&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabuddha34&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/prabuddha34?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/prabuddha34?affiliations=OWNER&style=for-the-badge&logo=github&color=f1c40f" alt="Stars" />
+  <img src="https://img.shields.io/github/join-date/prabuddha34?style=for-the-badge&logo=github&label=Joined" alt="Joined" />
+  <img src="https://img.shields.io/github/last-commit/prabuddha34/prabuddha34?style=for-the-badge&logo=git&logoColor=white&label=Last%20update" alt="Last update" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuddha34&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabuddha34&theme=flat&column=7" alt="Trophies" height="130" />
 </p>
 
 ---
@@ -115,12 +118,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prabuddha_Pal_2006?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ## ⏱️ Weekly Coding Stats
@@ -174,6 +171,10 @@ Text             22 mins               ▓░░░░░░░░░░░░�
 ✅ 620+ Problems Solved
 🏹 Languages: Java, Python, JavaScript, C, C++, Kotlin, PHP
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" alt="footer" />
