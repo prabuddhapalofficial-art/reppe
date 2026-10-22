@@ -114,6 +114,28 @@
 
 ---
 
+## 🥧 Languages I Use
+
+<p align="center"><i>Primary language of my 102 public repositories</i></p>
+
+```mermaid
+pie showData title Languages across my GitHub repos
+    "Java" : 35
+    "HTML" : 23
+    "Python" : 15
+    "JavaScript" : 9
+    "CSS" : 5
+    "C++" : 3
+    "C" : 3
+    "Solidity" : 2
+    "Makefile" : 2
+    "C#" : 1
+    "Go" : 1
+    "TypeScript" : 1
+    "Kotlin" : 1
+    "PHP" : 1
+```
+
 ## 📚 LeetCode Stats
 
 <p align="center">
