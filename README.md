@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuddha34&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph" />
+  <a href="https://github.com/prabuddha34"><img src="https://ghchart.rshah.org/36BCF7/prabuddha34" width="95%" alt="Contribution chart" /></a>
 </p>
 
 ---
